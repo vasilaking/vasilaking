@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **It costs about 3 cents to make a $1 bill in the United States**
+- ⚡ Daily fun fact: **There is a restaurant in Stockholm that only offers all-garlic products. They even have a garlic cheesecake**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
