@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasilaking&label=Profile%20views&color=0e75b6&style=flat" alt="vasilaking" /> </p>
 
 
-- 🌱 Currently learning: **Cybersecurity, server administration, making a full-stack app with main focus on the database design**
+- 🌱 Currently learning: **LLM hosting, i18n, embedded firmware**
   
 - ⚒️ Work**ED** on:<br>
       - [python.mk](https://python.mk/) (my own python learning platform for elementary school students)<br>
