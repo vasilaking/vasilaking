@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **NASCAR stands for National Association for Stock Car Auto Racing**
+- ⚡ Daily fun fact: **Paul Hunn holds the record for the loudest burp, which was 118.1 decibels, which is as loud as a chainsaw**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
