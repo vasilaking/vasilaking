@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The name Wendy was made up for the book "Peter Pan."**
+- ⚡ Daily fun fact: **The Gastric Flu can cause projectile vomiting**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
