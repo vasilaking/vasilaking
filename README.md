@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The Gastric Flu can cause projectile vomiting**
+- ⚡ Daily fun fact: **A chicken with red earlobes will produce brown eggs, and a chicken with white earlobes will produce white eggs**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
