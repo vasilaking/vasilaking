@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **A chicken with red earlobes will produce brown eggs, and a chicken with white earlobes will produce white eggs**
+- ⚡ Daily fun fact: **The sentence "the quick brown fox jumps over the lazy dog" uses every letter in the english language**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
