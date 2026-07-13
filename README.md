@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The sentence "the quick brown fox jumps over the lazy dog" uses every letter in the english language**
+- ⚡ Daily fun fact: **Serving ice cream on cherry pie was once illegal in Kansas**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
