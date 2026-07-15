@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **One out of 20 people have an extra rib**
+- ⚡ Daily fun fact: **Five thousandths of a millimeter is the tolerance of accuracy at the LEGO mould factories**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
