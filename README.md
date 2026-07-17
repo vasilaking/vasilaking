@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **China has more English speakers than the United States**
+- ⚡ Daily fun fact: **The Great Pyramids used to be as white as snow because they were encased in a bright limestone that has worn off over the years**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
