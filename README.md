@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The Great Pyramids used to be as white as snow because they were encased in a bright limestone that has worn off over the years**
+- ⚡ Daily fun fact: **A meteor has only destroyed one satellite, which was the European Space Agency's Olympus in 1993.**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
