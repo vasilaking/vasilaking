@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The Gastric Flu can cause projectile vomiting**
+- ⚡ Daily fun fact: **One-third pound stalk of broccoli contains more vitamin C than 204 apples**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
