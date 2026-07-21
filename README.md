@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **One-third pound stalk of broccoli contains more vitamin C than 204 apples**
+- ⚡ Daily fun fact: **The Ancient Greek women made a type of cheek blush by painting their cheeks with herbal pastes which was made out of crushed berries and seeds**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
