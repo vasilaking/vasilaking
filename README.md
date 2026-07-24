@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Japanese research has concluded that moderate drinking can boost IQ levels**
+- ⚡ Daily fun fact: **Before air conditioning was invented, white cotton slipcovers were put on furniture to keep the air cool.**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
