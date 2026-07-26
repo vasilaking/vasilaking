@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **In 1960 there were 16,067 gambling slots in Nevada. By 1999, this number rose to 205,726 slots which would be one slot for every 10 people residing there**
+- ⚡ Daily fun fact: **The Planters Peanut Company mascot, Mr. Peanut, was created during a contest for schoolchildren in 1916**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
