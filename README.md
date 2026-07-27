@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The Planters Peanut Company mascot, Mr. Peanut, was created during a contest for schoolchildren in 1916**
+- ⚡ Daily fun fact: **The Flintstones cartoon was the first thirty-minute cartoon to be aired during prime time**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
