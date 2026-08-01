@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Serving ice cream on cherry pie was once illegal in Kansas**
+- ⚡ Daily fun fact: **No piece of paper can be folded in half more than 7 times**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
