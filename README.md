@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Scallops have approximately 100 eyes around the edge of its shell**
+- ⚡ Daily fun fact: **Not all polar bears hibernate; only pregnant females polar bears do**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
