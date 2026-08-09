@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The abbreviation Xmas for the word Christmas is of Greek origin. Since the word for Christ in the Greek language is Xristos, which starts with the letter "X," they started putting the X in place of Christ and came up with the short form for the word Christmas**
+- ⚡ Daily fun fact: **In 1894 the first big Coke sign was found on the side of a building located in Cartersville, Georgia, and still exists today**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
