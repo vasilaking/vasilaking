@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Each year there are approximately 20 billion coconuts produced worldwide**
+- ⚡ Daily fun fact: **The Tonle Sap River in Cambodia flows north for almost half the year and then south for the rest of the year**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
