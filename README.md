@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The Tonle Sap River in Cambodia flows north for almost half the year and then south for the rest of the year**
+- ⚡ Daily fun fact: **In 1873, Colgate made a toothpaste that was available in a jar**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
