@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The word "toy" comes from an old English word that means "tool."**
+- ⚡ Daily fun fact: **A monkey was once tried and convicted for smoking a cigarette in South Bend, Indiana**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
