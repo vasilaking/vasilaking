@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **It costs about 3 cents to make a $1 bill in the United States**
+- ⚡ Daily fun fact: **Baskin Robbins plain vanilla ice cream is the number one selling flavour and accounts for a quarter of their sales**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
