@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Baskin Robbins plain vanilla ice cream is the number one selling flavour and accounts for a quarter of their sales**
+- ⚡ Daily fun fact: **The hydra, which is related to the jellyfish, can grow its body back in a couple of days if it is cut in half**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
