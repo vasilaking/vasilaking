@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Colour is not an indicator for the taste or ripeness in cranberries**
+- ⚡ Daily fun fact: **The cross bow was invented by the Chinese and records of its usage goes back to as far as the Three Kingdom Period (220 a.d.-280 a.d.).**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
