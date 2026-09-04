@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The expression cooked "al dente" means "to the tooth." What this means is that the pasta should be somewhat firm, and offer some resistance to the tooth, but should also be tender**
+- ⚡ Daily fun fact: ****
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
