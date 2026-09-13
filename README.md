@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Colour is not an indicator for the taste or ripeness in cranberries**
+- ⚡ Daily fun fact: **For more than 3,000 years, Carpenter ants have been used to close wounds in India, Asia and South America**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
