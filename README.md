@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **In 1836, Mexican General Santa Anna held an elaborate state funeral for his amputated leg. updated**
+- ⚡ Daily fun fact: **In 1865, the U.S. Secret Service was first established for the specific purpose to combat the counterfeiting of money**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
