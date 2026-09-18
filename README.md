@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **A meteor has only destroyed one satellite, which was the European Space Agency's Olympus in 1993.**
+- ⚡ Daily fun fact: **Japanese research has concluded that moderate drinking can boost IQ levels**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
