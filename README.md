@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Japanese research has concluded that moderate drinking can boost IQ levels**
+- ⚡ Daily fun fact: **One gallon of pure maple syrup weighs 11 pounds**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
