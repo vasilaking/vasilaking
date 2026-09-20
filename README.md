@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **One gallon of pure maple syrup weighs 11 pounds**
+- ⚡ Daily fun fact: **The reason why hair turns gray as we age is because the pigment cells in the hair follicle start to die, which is responsible for producing "melanin" which gives the hair colour**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
