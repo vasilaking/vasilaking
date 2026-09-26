@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **In 1810, Peter Durand invented the tin can for preserving food**
+- ⚡ Daily fun fact: **China has more English speakers than the United States**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
