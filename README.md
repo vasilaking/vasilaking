@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **China has more English speakers than the United States**
+- ⚡ Daily fun fact: **Serving ice cream on cherry pie was once illegal in Kansas**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
