@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Istanbul, Turkey is the only city in the world located on two continents**
+- ⚡ Daily fun fact: **It is estimated that by the end of 2000, there has been 142,600 tonnes of gold mined in the world**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
