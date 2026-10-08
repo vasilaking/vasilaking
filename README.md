@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Humans are born with 300 bones in their body, however when a person reaches adulthood they only have 206 bones. This occurs because many of them join together to make a single bone**
+- ⚡ Daily fun fact: **The sentence "the quick brown fox jumps over the lazy dog" uses every letter in the english language**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
