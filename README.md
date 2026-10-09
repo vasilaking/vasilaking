@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The sentence "the quick brown fox jumps over the lazy dog" uses every letter in the english language**
+- ⚡ Daily fun fact: **In the U.S., over one million gallons of cosmetics, drinks, and lotions are sold that contain aloe in them per year**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
