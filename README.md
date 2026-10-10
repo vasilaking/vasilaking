@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **In the U.S., over one million gallons of cosmetics, drinks, and lotions are sold that contain aloe in them per year**
+- ⚡ Daily fun fact: **One-third pound stalk of broccoli contains more vitamin C than 204 apples**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
