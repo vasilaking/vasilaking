@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **One out of 20 people have an extra rib**
+- ⚡ Daily fun fact: **In 1631, two London bible printers accidentally left the word "not" out of the seventh commandment, which then read, "Thou shalt commit adultery." This legendary book is now known as the "Wicked Bible."**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
