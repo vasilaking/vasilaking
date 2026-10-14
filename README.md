@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **There are six million parts in the Boeing 747-400.**
+- ⚡ Daily fun fact: **For more than 3,000 years, Carpenter ants have been used to close wounds in India, Asia and South America**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
