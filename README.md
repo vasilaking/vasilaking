@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The abbreviation Xmas for the word Christmas is of Greek origin. Since the word for Christ in the Greek language is Xristos, which starts with the letter "X," they started putting the X in place of Christ and came up with the short form for the word Christmas**
+- ⚡ Daily fun fact: **A meteor has only destroyed one satellite, which was the European Space Agency's Olympus in 1993.**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
