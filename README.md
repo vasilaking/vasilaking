@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **A meteor has only destroyed one satellite, which was the European Space Agency's Olympus in 1993.**
+- ⚡ Daily fun fact: **The largest employer in the world is the Indian railway system in India, employing over 1.6 million people**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
