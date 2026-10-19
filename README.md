@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The only South East Asian country that has never been colonized by a Western Power is Thailand**
+- ⚡ Daily fun fact: **Pitcher Darold Knowles once pitched all seven games of one World Series**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
