@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Pitcher Darold Knowles once pitched all seven games of one World Series**
+- ⚡ Daily fun fact: **Superman The Escape rollercoaster, located in California at Six Flags Magic Mountain, goes from 0 to 100 miles per hour in only 7 seconds**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
