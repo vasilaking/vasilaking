@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **No piece of paper can be folded in half more than 7 times**
+- ⚡ Daily fun fact: **Before air conditioning was invented, white cotton slipcovers were put on furniture to keep the air cool.**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
