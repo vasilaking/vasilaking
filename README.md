@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **In 1873, Colgate made a toothpaste that was available in a jar**
+- ⚡ Daily fun fact: **The first couple to be shown on a sitcom sleeping in the same bed was "Mary Kay and Johnny."**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
