@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The Koala bear is not really a bear, but is really related to the kangaroo and the wombat.**
+- ⚡ Daily fun fact: **The average price for a major league baseball game in 2004 is $19.82**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
