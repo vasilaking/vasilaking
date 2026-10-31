@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The Kodiak, which is native to Alaska, is the largest bear and can measure up to eight feet and weigh as much as 1,700 pounds**
+- ⚡ Daily fun fact: **In 1631, two London bible printers accidentally left the word "not" out of the seventh commandment, which then read, "Thou shalt commit adultery." This legendary book is now known as the "Wicked Bible."**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
