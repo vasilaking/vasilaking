@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **In 1631, two London bible printers accidentally left the word "not" out of the seventh commandment, which then read, "Thou shalt commit adultery." This legendary book is now known as the "Wicked Bible."**
+- ⚡ Daily fun fact: **Elizabeth Taylor has appeared on the cover of Life magazine more than anyone else**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
