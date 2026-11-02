@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Elizabeth Taylor has appeared on the cover of Life magazine more than anyone else**
+- ⚡ Daily fun fact: **Serving ice cream on cherry pie was once illegal in Kansas**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
