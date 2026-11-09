@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Colour is not an indicator for the taste or ripeness in cranberries**
+- ⚡ Daily fun fact: **Most lipstick contains fish scales**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
