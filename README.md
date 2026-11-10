@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Most lipstick contains fish scales**
+- ⚡ Daily fun fact: **Istanbul, Turkey is the only city in the world located on two continents**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
