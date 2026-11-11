@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Istanbul, Turkey is the only city in the world located on two continents**
+- ⚡ Daily fun fact: **The "naked recreation and travel" industry has grown by 233% in the past decade**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
