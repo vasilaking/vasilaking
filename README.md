@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The "naked recreation and travel" industry has grown by 233% in the past decade**
+- ⚡ Daily fun fact: **The longest distance a deepwater lobster has been recorded to travel is 225 miles**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
