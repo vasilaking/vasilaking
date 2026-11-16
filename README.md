@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **NASCAR stands for National Association for Stock Car Auto Racing**
+- ⚡ Daily fun fact: **Cinderella is known as Rashin Coatie in Scotland, Zezolla in Italy, and Yeh-hsien in China**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
