@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **Macadamia nuts are not sold in their shells because it takes 300 pounds per square inch of pressure to break the shell**
+- ⚡ Daily fun fact: **Pitcher Darold Knowles once pitched all seven games of one World Series**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
