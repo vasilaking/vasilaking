@@ -26,7 +26,7 @@
 
 - 📫 Mail me at **vasilaki@totsili.com**
 
-- ⚡ Daily fun fact: **The name Wendy was made up for the book "Peter Pan."**
+- ⚡ Daily fun fact: **Mars is the home of Olympus Mons, the largest known volcano in our solar system**
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
